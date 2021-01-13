@@ -5,8 +5,8 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 [Skills](#skills-1)
 -----------------
 
-- [Capacità di lavorare in autonomia](#capacità-di-lavorare-in-autonomia)
 - [Pensiero Logico](#pensiero-logico)
+- [Capacità di lavorare in autonomia](#capacità-di-lavorare-in-autonomia)
 - [Capacità di Analisi e problem solving](#capacità-di-analisi-e-problem-solving)
 - [Capacità relazionali](#capacità-relazionali)
 - [Capacità di ricerca delle soluzioni](#capacità-di-ricerca-delle-soluzioni)
@@ -50,12 +50,26 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Non si fa mai una sola cosa 
 - Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato all'inizio
 
+## Tools Must-Have
 
+- Git
+- Kanban Boards
+- Text Editors o IDE
+- Bash
 
 # Skills
 
-### Capacità di lavorare in autonomia
 ### Pensiero Logico
+
+Indubbiamente la caratteristica regina. 
+Attraverso il pensiero logico lo sviluppatore risolve tutti i problemi che gli si pongono davanti.
+Approcciarsi ad un problema applicando una logica, risolvendolo prima attraverso un ragionamento, aiutandosi con diagrammi o pseudo-codice, senza nemmeno scrivere una riga di codice, è la caratteristica che permette agli sviluppatori di riuscire a risolvere situazioni molto complesse, ed avere chiaro come partire da un punto A e raggiungere un punto B.
+
+### Capacità di lavorare in autonomia
+
+Sia che lo sviluppatore lavori in team, remoti o on-site, o che lavori in modo indipendente, lo sviluppatore deve avere un buon grado di lavorare in modo autonomo, senza richiedere continuamente l'intervento di terze persone per proseguire nel proprio lavoro.
+Persone che devono essere seguite, che hanno bisogno di costante supporto e sostegno, e che non progrediscono senza interventi esterni, a tendere risultano diventare un problema per gli ambienti in cui lavorano.
+
 ### Capacità di Analisi e problem solving
 ### Capacità relazionali
 ### Capacità di ricerca delle soluzioni
