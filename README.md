@@ -13,10 +13,10 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 
 ## Mindset
 
-- Spirito di adattamento
-- Curiosità e fame di apprendimento
-- Abitudine a "navigare a vista"
-- Non avere paura di sbagliare
+- [Spirito di adattamento](#spirito-di-adattamento)
+- [Curiosità e fame di apprendimento](#curiosità-e-fame-di-apprendimento)
+- [Abitudine a "navigare a vista"](#abitudine-a-navigare-a-vista)
+- [Non avere paura di sbagliare](#non-avere-paura-di-sbagliare)
 
 
 ## Pro
