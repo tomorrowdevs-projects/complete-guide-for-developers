@@ -2,7 +2,8 @@
 ## Pro / Contro, Skills necessarie e Mindset.
 Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mondo dello sviluppo Software e capire se è fatta per te.
 
-## Skills
+[Skills](#skills)
+-----------------
 
 - Capacità di lavorare in autonomia
 - Pensiero Logico
@@ -48,3 +49,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Ci si rende conto tardi che ci sono tante cose da imparare
 - Non si fa mai una sola cosa 
 - Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato all'inizio
+
+
+
+# Skills
