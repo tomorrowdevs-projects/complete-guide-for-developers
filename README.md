@@ -11,7 +11,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - [Capacità relazionali](#capacità-relazionali)
 - [Capacità di ricerca delle soluzioni](#capacità-di-ricerca-delle-soluzioni)
 
-Mindset(#mindset-1)
+[Mindset](#mindset-1)
 -----------------
 
 - [Spirito di adattamento](#spirito-di-adattamento)
