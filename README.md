@@ -30,6 +30,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Si sperimentano tecnologie nuove
 - Si può crescere professionalmente ed ambire a posizioni importanti
 - C'è sempre richiesta
+- Non serve una certificazione
 
 ## Contro
 
