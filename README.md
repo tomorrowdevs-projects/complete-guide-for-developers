@@ -5,7 +5,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 [Skills](#skills)
 -----------------
 
-- Capacità di lavorare in autonomia
+- [Capacità di lavorare in autonomia](#capacita-di-lavorare-in-autonomia)
 - Pensiero Logico
 - Capacità di Analisi e problem solving
 - Capacità relazionali
@@ -53,3 +53,10 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 
 
 # Skills
+
+### Capacità di lavorare in autonomia
+
+- Pensiero Logico
+- Capacità di Analisi e problem solving
+- Capacità relazionali
+- Capacità di ricerca delle soluzioni
