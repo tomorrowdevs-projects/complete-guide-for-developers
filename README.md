@@ -15,9 +15,9 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 -----------------
 
 - [Spirito di adattamento](#spirito-di-adattamento)
-- [Curiosità e fame di apprendimento](#curiosità-e-fame-di-apprendimento)
 - [Abitudine a "navigare a vista"](#abitudine-a-navigare-a-vista)
 - [Non avere paura di sbagliare](#non-avere-paura-di-sbagliare)
+- [Non sentirsi mai "arrivati"](#curiosità-e-fame-di-apprendimento)
 - [Apertura Mentale](#apertura-mentale)
 
 ## Pro
@@ -93,7 +93,31 @@ Questo vuol dire sapere padroneggiare il nostro lavoro, sapere esattamente di co
 # Mindset
 
 ### Spirito di adattamento
-### Curiosità e fame di apprendimento
+
+Questo è un punto ricorrente sotto varie forme.
+Adattarsi a situazioni diverse è sicuramente una caratteristica chiave per diventare buoni sviluppatori. 
+Le sfide ed i contesti sono sempre diversi, sapersi adattare velocemente a realtà e situazioni nuove permette di rimanere sempre produttivi. 
+
 ### Abitudine a "navigare a vista"
+
+Legato allo spirito di adattamento, molto di frequente lo sviluppatore deve addentrarsi in ambiti di cui non ha particolare conoscenza, deve misurarsi con situazioni mai viste prima, in cui tutte le skills menzionate diventano importanti per non sentirsi persi.
+
 ### Non avere paura di sbagliare
+
+Quello che scriviamo non sono altro che bit. Possiamo sempre correggere e tornare indietro.
+I migliori sviluppatori sono coloro che hanno sperimentato tanto, e sbagliato tanto.
+Dagli errori, e dal confronto, nascono le competenze in questo settore.
+Non è solo conoscenza, ma è moltissimo esperienza.
+
+### Non sentirsi mai "arrivati"
+
+Il momento in cui un developer pensa di conoscere bene una cosa, è il momento in cui deve rimettersi a studiare.
+Non esiste un punto in cui si può dire di conoscere tutto quello che serve.
+Quello che sappiamo oggi, domani potrebbe non servire più.
+Smettere di imparare è il miglior modo per rimanere lontani dal presente.
+
 ### Apertura Mentale
+
+La tecnologia avanza ad una velocità tale per cui ogni giorno esistono soluzioni nuove ad un problema che avevamo in precedenza.
+Evitare di provare qualcosa solo per la paura dell'ignoto equivale a non voler migliorare se stessi.
+Questo non vuol dire correre dietro a qualsiasi novità o moda, ma vuol dire agire consapevolmente nell'ottica di un miglioramento continuo.
