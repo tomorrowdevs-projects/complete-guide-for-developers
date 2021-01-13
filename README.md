@@ -8,6 +8,7 @@
 - Pensiero Logico
 - Capacità di Analisi e problem solving
 - Capacità relazionali
+- Capacità di ricerca delle soluzioni
 
 ## Mindset
 
@@ -33,14 +34,14 @@
 
 - Richiede una formazione continua
 - Non si stacca mai mentalmente
-- Non sarai mai contento di te stesso
+- Non sarai mai contento di te stesso e del codice che hai scritto ieri
 - Ci si misura continuamente con problemi ignoti
 - Si fa una vita prevalentemente sedentaria
 - Può essere alienante
-- Non formarsi equivale ad un normale lavoro d'ufficio
+- Non formarsi equivale a fare un normale lavoro d'ufficio
 - Senza una guida ci si perde molto facilmente
 - Al giorno 0 non si ha chiaro di quanto sia vasto questo mondo
 - Manca il tempo di imparare in modo approfondito
 - Ci si rende conto tardi che ci sono tante cose da imparare
 - Non si fa mai una sola cosa 
-- Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato
+- Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato all'inizio
