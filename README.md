@@ -11,13 +11,14 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - [Capacità relazionali](#capacità-relazionali)
 - [Capacità di ricerca delle soluzioni](#capacità-di-ricerca-delle-soluzioni)
 
-## Mindset
+Mindset(#mindset-1)
+-----------------
 
 - [Spirito di adattamento](#spirito-di-adattamento)
 - [Curiosità e fame di apprendimento](#curiosità-e-fame-di-apprendimento)
 - [Abitudine a "navigare a vista"](#abitudine-a-navigare-a-vista)
 - [Non avere paura di sbagliare](#non-avere-paura-di-sbagliare)
-- Apertura Mentale alle novità
+- [Apertura Mentale](#apertura-mentale)
 
 ## Pro
 
@@ -87,3 +88,12 @@ Uno sviluppatore che non è in grado di spiegare una soluzione ad un problema, o
 Non è richiesto che uno sviluppatore conosca tutto a memoria: Google, Github e Stackoverflow sono i nostri migliori amici.
 Ma attenzione, è molto facile cadere nel tranello di applicare soluzioni sbagliate, o peggio ancora a caso senza capirne bene il funzionamento.
 Questo vuol dire sapere padroneggiare il nostro lavoro, sapere esattamente di cosa abbiamo bisogno, e di conseguenza fare le ricerche giuste.
+
+
+# Mindset
+
+### Spirito di adattamento
+### Curiosità e fame di apprendimento
+### Abitudine a "navigare a vista"
+### Non avere paura di sbagliare
+### Apertura Mentale
