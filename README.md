@@ -2,14 +2,14 @@
 ## Pro / Contro, Skills necessarie e Mindset.
 Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mondo dello sviluppo Software e capire se è fatta per te.
 
-[Skills](#skills)
+[Skills](#skills-1)
 -----------------
 
-- [Capacità di lavorare in autonomia](#capacita-di-lavorare-in-autonomia)
-- Pensiero Logico
-- Capacità di Analisi e problem solving
-- Capacità relazionali
-- Capacità di ricerca delle soluzioni
+- [Capacità di lavorare in autonomia](#capacità-di-lavorare-in-autonomia)
+- [Pensiero Logico](#pensiero-logico)
+- [Capacità di Analisi e problem solving](#capacità-di-analisi-e-problem-solving)
+- [Capacità relazionali](#capacità-relazionali)
+- [Capacità di ricerca delle soluzioni](#capacità-di-ricerca-delle-soluzioni)
 
 ## Mindset
 
@@ -55,8 +55,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 # Skills
 
 ### Capacità di lavorare in autonomia
-
-- Pensiero Logico
-- Capacità di Analisi e problem solving
-- Capacità relazionali
-- Capacità di ricerca delle soluzioni
+### Pensiero Logico
+### Capacità di Analisi e problem solving
+### Capacità relazionali
+### Capacità di ricerca delle soluzioni
