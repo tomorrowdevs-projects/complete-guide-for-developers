@@ -15,6 +15,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Spirito di adattamento
 - Curiosità e fame di apprendimento
 - Abitudine a "navigare a vista"
+- Non avere paura di sbagliare
 
 
 ## Pro
@@ -32,6 +33,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 
 ## Contro
 
+- Vivrai costantemente con la sindrome dell'impostore
 - Richiede una formazione continua
 - Non si stacca mai mentalmente
 - Non sarai mai contento di te stesso e del codice che hai scritto ieri
