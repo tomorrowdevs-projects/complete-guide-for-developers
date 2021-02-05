@@ -50,6 +50,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Ci si rende conto tardi che ci sono tante cose da imparare
 - Non si fa mai una sola cosa 
 - Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato all'inizio
+- Senza cambi di ambiente, potrebbe risultare noioso
 
 ## Tools Must-Have
 
