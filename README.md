@@ -25,9 +25,9 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 
 - [Estremamente creativo](#estremamente-creativo)
 - [Impari ogni giorno](#impari-ogni-giorno)
-- [Ogni situazione è formazione](#ogni-giorno-è-formazione)
-- [Non è per forza necessaria una laurea (ma fa comodo)](#ogni-giorno-è-formazione)
-- [Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)](#ogni-giorno-è-formazione)
+- [Ogni situazione è formazione](#ogni-situazione-è-formazione)
+- [Non è per forza necessaria una laurea (ma fa comodo)](#non-è-per-forza-necessaria-una-laurea-ma-fa-comodo)
+- [Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)](#non-sono-necessarie-grandi-competenze-matematiche-solo-in-determinati-ambiti)
 - [Si può lavorare agevolmente da remoto](#si-può-lavorare-agevolmente-da-remoto)
 - E' una crescita continua
 - Si sperimentano tecnologie nuove
