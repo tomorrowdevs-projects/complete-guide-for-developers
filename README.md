@@ -20,14 +20,15 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - [Non sentirsi mai "arrivati"](#curiosità-e-fame-di-apprendimento)
 - [Apertura Mentale](#apertura-mentale)
 
-## Pro
+[Pro](#pro-1)
+-----------------
 
-- Estremamente creativo
-- Impari ogni giorno
-- Ogni situazione è formazione
-- Non è per forza necessaria una laurea (ma fa comodo)
-- Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)
-- Si può lavorare agevolmente da remoto
+- [Estremamente creativo](#estremamente-creativo)
+- [Impari ogni giorno](#impari-ogni-giorno)
+- [Ogni situazione è formazione](#ogni-giorno-è-formazione)
+- [Non è per forza necessaria una laurea (ma fa comodo)](#ogni-giorno-è-formazione)
+- [Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)](#ogni-giorno-è-formazione)
+- [Si può lavorare agevolmente da remoto](#si-può-lavorare-agevolmente-da-remoto)
 - E' una crescita continua
 - Si sperimentano tecnologie nuove
 - Si può crescere professionalmente ed ambire a posizioni importanti
@@ -122,3 +123,62 @@ Smettere di imparare è il miglior modo per rimanere lontani dal presente.
 La tecnologia avanza ad una velocità tale per cui ogni giorno esistono soluzioni nuove ad un problema che avevamo in precedenza.
 Evitare di provare qualcosa solo per la paura dell'ignoto equivale a non voler migliorare se stessi.
 Questo non vuol dire correre dietro a qualsiasi novità o moda, ma vuol dire agire consapevolmente nell'ottica di un miglioramento continuo.
+
+
+# Pro
+
+### Estremamente creativo
+
+Scrivere codice è una delle attività più creative, più di quanto si possa immaginare.
+Attraverso il software si possono risolvere problemi concreti, in modi sempre diversi, nonostante dall'esterno sia difficilmente percepito il valore di ciò che viene fatto.
+Il bello della programmazione è inventarsi un modo per risolvere problemi della vita quotidiana.
+
+### Impari ogni giorno
+
+Ogni giorno costituisce una nuova sfida da raggiungere. Un nuovo requisito, un nuovo obiettivo da raggiungere.
+Ogni giorno è adatto per imparare un modo diverso di risolvere un problema e migliorarsi.
+
+### Ogni situazione è formazione
+
+Questo aspetto sconvolge molte persone. Tantissimi hanno paura di sbagliare, di fare le cose non nel modo in cui vada fatto.
+In realtà, sbagliando si migliora, perchè permette di imparare da ciò che abbiamo fatto male in precedenza, apportando i giusti correttivi.
+Abbracciando l'errore riusciamo ad imparare più velocemente.
+
+### Non è per forza necessaria una laurea (ma fa comodo)
+
+Uno dei più grossi luoghi comuni di questo ambito.
+Dal di fuori, potrebbe sembrare che per fare un lavoro di concetto, in cui si affrontano molte situazioni tecniche, si possa fare solo se laureati.
+Oppure perchè nelle offerte lavorative la presenza della laurea viene richiesta spesso.
+Nella realtà dei fatti, sopratutto in ambito Web, non è praticamente mai necessaria.
+In alcuni ambiti ben precisi, la laurea permette di ottenere conoscenze accessorie (come quelle Matematiche, lo vedremo in seguito) e forma mentis, ma di fatto per la stra-grande maggioranza dei casi, si può tranquillamente lavorare senza laurea.
+Ciò che più conta è la capacità di approcciarsi ai problemi, risolverli in modo logico e di conseguenza attraverso la programmazione.
+
+Gli ambiti in cui è sicuramente utile (ma non necessaria) avere una Laurea sono:
+- Data Science
+- Computer Vision
+- Machine Learning / Intelligenza Artificiale
+- Game Development
+- Gestione Server / Reti
+
+### Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)
+
+Un altro enorme luogo comune.
+La Matematica non è (quasi) mai necessaria.
+Possiamo identificare gli ambiti in cui la Matematica è necessaria in questo elenco:
+- Data Science (Algebra Lineare, Probabilità e Statistica)
+- Machine Learning
+- Intelligenza Artificiale
+- Game Development (trigonometria)
+- Programmazione a basso livello
+
+### Si può lavorare agevolmente da remoto
+
+Durante la pandemia del 2020, il mestiere del Developer è stato quello che meno di tutti ha risentito della situazione.
+Coloro che già facevano questo mestiere erano già abituate a comunicare e lavorare online. Per loro non è stato un problema farlo da un altro luogo.
+Questo apre possibilità per tutti, anche per chi vive al di fuori delle grandi città o metropoli, di lavorare agevolmente.
+
+- E' una crescita continua
+- Si sperimentano tecnologie nuove
+- Si può crescere professionalmente ed ambire a posizioni importanti
+- C'è sempre richiesta
+- Non serve una certificazione
