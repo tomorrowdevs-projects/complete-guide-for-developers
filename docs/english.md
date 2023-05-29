@@ -18,7 +18,7 @@ That is: everything you'd want to know BEFORE you start a career in Software Dev
 - [Spirit of adaptation](#spirit-of-adaptation)
 - [Habit of "navigating by sight"](#habit-of-navigating-by-sight)
 - [Not being afraid to make mistakes](#not-being-afraid-to-make-mistakes)
-- [Curiosity and hunger of learning](#curiosity-and-hunger-of-learning)
+- [Curiosity and hunger for learning](#curiosity-and-hunger-for-learning)
 - [Open-mindedness](#open-mindedness)
 
 [Pro](#pro-1)
@@ -112,7 +112,7 @@ The best developers are those who have experimented a lot, and been wrong a lot.
 From mistakes, and from comparison, comes expertise in this area.
 It is not just knowledge, but it is a lot of experience.
 
-### Never feel "arrived"
+### Curiosity and hunger for learning
 
 The point at which a developer thinks he or she knows something well is the point at which he or she needs to put himself or herself back to study.
 There is no point at which you can say you know everything you need.
