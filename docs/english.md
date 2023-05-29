@@ -30,11 +30,11 @@ That is: everything you'd want to know BEFORE you start a career in Software Dev
 - [You don't necessarily need a college degree (but it comes in handy)](#you-don't-necessarily-need-a-college-degree-(but-it-comes-in-handy))
 - [Great math skills are not necessary (only in certain areas)](#great-math-skills-are-not-necessary-(only-in-certain-areas))
 - [You can easily work remotely](#you-can-easily-work-remotely)
-- It's continuous growth
-- You can experiment with new technologies
-- You can grow professionally and aspire to important positions
-- There is always demand of developers on the work market
-- You don't need a certification
+- [It's continuous growth](#its-continuous-growth)
+- [You can experiment with new technologies](#you-can-experiment-with-new-technologies)
+- [You can grow professionally and aspire to important positions](#you-can-grow-professionally-and-aspire-to-important-positions)
+- [There is always demand of developers in the work market](#there-is-always-demand-of-developers-in-the-work-market)
+- [You don't need a certification](#you-don't-need-a-certification)
 
 ## Cons
 
@@ -203,11 +203,18 @@ During the 2020 pandemic, the Developer profession was the least affected by the
 Those who were already in this profession were already used to communicating and working online. It was no problem for them to do it from another location.
 This opens up possibilities for everyone, even those who live outside of large cities or metropolises, to work easily.
 
-- It is a continuous growth
-- You experiment with new technologies
-- One can grow professionally and aspire to important positions
-- There is always demand
-- You don't need certification
+### It's continuous growth
+
+
+### You experiment with new technologies
+
+### One can grow professionally and aspire to important positions
+
+
+### There is always demand of developers in the work market
+
+
+### You don't need certification
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
