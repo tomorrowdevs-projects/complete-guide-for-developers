@@ -54,6 +54,10 @@ That is: everything you'd want to know BEFORE you start a career in Software Dev
 - One never tends to work on the things we studied for in the beginning
 - Without changes of environment, it could be boring
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## Must-Have Tools
 
 - Git
@@ -80,6 +84,10 @@ From there, through logic, it will be easier to arrive at a solution to each ind
 Whether the developer works in teams, remote or on-site, or works independently, the developer must have a good degree of ability to work autonomously, without continually requiring the intervention of third parties to continue in their work.
 People who need to be supervised, who need constant support and backing, and who do not progress without outside intervention tend to turn out to be a problem for the environments in which they work.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ### Relationship skills.
 
 One of the common misconceptions about developers is that they are reclusive and closed people.
@@ -92,6 +100,9 @@ It is not required that a developer knows everything by heart-Google, Github, an
 But beware, it is very easy to fall into the trap of applying the wrong solutions, or even worse, at random without really understanding how they work.
 This means knowing how to master our work, knowing exactly what we need, and consequently doing the right research.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 # Mindset
 
@@ -112,6 +123,10 @@ The best developers are those who have experimented a lot, and been wrong a lot.
 From mistakes, and from comparison, comes expertise in this area.
 It is not just knowledge, but it is a lot of experience.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ### Curiosity and hunger for learning
 
 The point at which a developer thinks he or she knows something well is the point at which he or she needs to put himself or herself back to study.
@@ -125,6 +140,9 @@ Technology advances at such a speed that every day there are new solutions to a 
 To avoid trying something just because of fear of the unknown is tantamount to not wanting to improve oneself.
 This does not mean running after every novelty or fad, but it means consciously acting with a view to continuous improvement.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 # Pros
 
@@ -145,6 +163,10 @@ This aspect upsets many people. So many are afraid of making mistakes, of doing 
 Actually, by making mistakes we get better, because it allows us to learn from what we did wrong before, making the right corrections.
 By embracing the mistake we are able to learn faster.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ### A degree is not necessarily necessary (but it comes in handy).
 
 One of the biggest clichés in this area.
@@ -160,6 +182,10 @@ The areas in which it is definitely useful (but not necessary) to have a Bachelo
 - Machine Learning / Artificial Intelligence
 - Game Development
 - Server Management / Networks
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ### No great mathematical skills required (only in certain areas).
 Another huge cliché.
@@ -182,3 +208,7 @@ This opens up possibilities for everyone, even those who live outside of large c
 - One can grow professionally and aspire to important positions
 - There is always demand
 - You don't need certification
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
