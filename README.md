@@ -31,11 +31,11 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - [Non è per forza necessaria una laurea (ma fa comodo)](#non-è-per-forza-necessaria-una-laurea-ma-fa-comodo)
 - [Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)](#non-sono-necessarie-grandi-competenze-matematiche-solo-in-determinati-ambiti)
 - [Si può lavorare agevolmente da remoto](#si-può-lavorare-agevolmente-da-remoto)
-- E' una crescita continua
-- Si sperimentano tecnologie nuove
-- Si può crescere professionalmente ed ambire a posizioni importanti
-- C'è sempre richiesta
-- Non serve una certificazione
+- [E' una crescita continua](#è-una-crescita-continua)
+- [Si sperimentano tecnologie sempre nuove](#si-sperimentano-tecnologie-sempre-nuove)
+- [Si può crescere professionalmente ed ambire a posizioni importanti](#si-può-crescere-professionalmente-ed-ambire-a-posizioni-importanti)
+- [C'è sempre richiesta di developer nel mercato del lavoro](#C'è-sempre-richiesta-di-developer-nel-mercato-del-lavoro)
+- [Non serve una certificazione specifica](#non-serve-una-certificazione-specifica)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -209,11 +209,19 @@ Durante la pandemia del 2020, il mestiere del Developer è stato quello che meno
 Coloro che già facevano questo mestiere erano già abituate a comunicare e lavorare online. Per loro non è stato un problema farlo da un altro luogo.
 Questo apre possibilità per tutti, anche per chi vive al di fuori delle grandi città o metropoli, di lavorare agevolmente.
 
-- E' una crescita continua
-- Si sperimentano tecnologie nuove
-- Si può crescere professionalmente ed ambire a posizioni importanti
-- C'è sempre richiesta
-- Non serve una certificazione
+### E' una crescita continua
+
+
+### Si sperimentano tecnologie nuove
+
+
+### Si può crescere professionalmente ed ambire a posizioni lavorative importanti
+
+
+### C'è sempre richiesta di developer nel mercato del lavoro
+
+
+### Non serve una certificazione
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
