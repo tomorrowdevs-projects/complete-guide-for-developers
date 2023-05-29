@@ -2,6 +2,8 @@
 ## Pro / Contro, Skills necessarie e Mindset.
 Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mondo dello sviluppo Software e capire se è fatta per te.
 
+> [English version](./docs/english.md)
+
 [Skills](#skills-1)
 -----------------
 
