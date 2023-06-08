@@ -2,6 +2,8 @@
 ## Pro / Contro, Skills necessarie e Mindset.
 Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mondo dello sviluppo Software e capire se è fatta per te.
 
+> [English version](./docs/english.md)
+
 [Skills](#skills-1)
 -----------------
 
@@ -29,11 +31,15 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - [Non è per forza necessaria una laurea (ma fa comodo)](#non-è-per-forza-necessaria-una-laurea-ma-fa-comodo)
 - [Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)](#non-sono-necessarie-grandi-competenze-matematiche-solo-in-determinati-ambiti)
 - [Si può lavorare agevolmente da remoto](#si-può-lavorare-agevolmente-da-remoto)
-- E' una crescita continua
-- Si sperimentano tecnologie nuove
-- Si può crescere professionalmente ed ambire a posizioni importanti
-- C'è sempre richiesta
-- Non serve una certificazione
+- [E' una crescita continua](#è-una-crescita-continua)
+- [Si sperimentano tecnologie sempre nuove](#si-sperimentano-tecnologie-sempre-nuove)
+- [Si può crescere professionalmente ed ambire a posizioni importanti](#si-può-crescere-professionalmente-ed-ambire-a-posizioni-importanti)
+- [C'è sempre richiesta di developer nel mercato del lavoro](#C'è-sempre-richiesta-di-developer-nel-mercato-del-lavoro)
+- [Non serve una certificazione specifica](#non-serve-una-certificazione-specifica)
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ## Contro
 
@@ -52,6 +58,10 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Non si fa mai una sola cosa 
 - Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato all'inizio
 - Senza cambi di ambiente, potrebbe risultare noioso
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ## Tools Must-Have
 
@@ -79,6 +89,10 @@ Da qui, attraverso la logica, si potrà arrivare più facilmente alla soluzione 
 Sia che lo sviluppatore lavori in team, remoti o on-site, o che lavori in modo indipendente, lo sviluppatore deve avere un buon grado di lavorare in modo autonomo, senza richiedere continuamente l'intervento di terze persone per proseguire nel proprio lavoro.
 Persone che devono essere seguite, che hanno bisogno di costante supporto e sostegno, e che non progrediscono senza interventi esterni, a tendere risultano diventare un problema per gli ambienti in cui lavorano.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ### Capacità relazionali
 
 Uno dei luoghi comuni riguardo i developer è che siano persone solitarie e chiuse.
@@ -91,6 +105,9 @@ Non è richiesto che uno sviluppatore conosca tutto a memoria: Google, Github e 
 Ma attenzione, è molto facile cadere nel tranello di applicare soluzioni sbagliate, o peggio ancora a caso senza capirne bene il funzionamento.
 Questo vuol dire sapere padroneggiare il nostro lavoro, sapere esattamente di cosa abbiamo bisogno, e di conseguenza fare le ricerche giuste.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 # Mindset
 
@@ -111,6 +128,10 @@ I migliori sviluppatori sono coloro che hanno sperimentato tanto, e sbagliato ta
 Dagli errori, e dal confronto, nascono le competenze in questo settore.
 Non è solo conoscenza, ma è moltissimo esperienza.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ### Non sentirsi mai "arrivati"
 
 Il momento in cui un developer pensa di conoscere bene una cosa, è il momento in cui deve rimettersi a studiare.
@@ -124,6 +145,9 @@ La tecnologia avanza ad una velocità tale per cui ogni giorno esistono soluzion
 Evitare di provare qualcosa solo per la paura dell'ignoto equivale a non voler migliorare se stessi.
 Questo non vuol dire correre dietro a qualsiasi novità o moda, ma vuol dire agire consapevolmente nell'ottica di un miglioramento continuo.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 # Pro
 
@@ -144,6 +168,10 @@ Questo aspetto sconvolge molte persone. Tantissimi hanno paura di sbagliare, di 
 In realtà, sbagliando si migliora, perchè permette di imparare da ciò che abbiamo fatto male in precedenza, apportando i giusti correttivi.
 Abbracciando l'errore riusciamo ad imparare più velocemente.
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ### Non è per forza necessaria una laurea (ma fa comodo)
 
 Uno dei più grossi luoghi comuni di questo ambito.
@@ -159,6 +187,10 @@ Gli ambiti in cui è sicuramente utile (ma non necessaria) avere una Laurea sono
 - Machine Learning / Intelligenza Artificiale
 - Game Development
 - Gestione Server / Reti
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ### Non sono necessarie grandi competenze matematiche (solo in determinati ambiti)
 
@@ -177,8 +209,20 @@ Durante la pandemia del 2020, il mestiere del Developer è stato quello che meno
 Coloro che già facevano questo mestiere erano già abituate a comunicare e lavorare online. Per loro non è stato un problema farlo da un altro luogo.
 Questo apre possibilità per tutti, anche per chi vive al di fuori delle grandi città o metropoli, di lavorare agevolmente.
 
-- E' una crescita continua
-- Si sperimentano tecnologie nuove
-- Si può crescere professionalmente ed ambire a posizioni importanti
-- C'è sempre richiesta
-- Non serve una certificazione
+### E' una crescita continua
+
+
+### Si sperimentano tecnologie nuove
+
+
+### Si può crescere professionalmente ed ambire a posizioni lavorative importanti
+
+
+### C'è sempre richiesta di developer nel mercato del lavoro
+
+
+### Non serve una certificazione
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
