@@ -52,12 +52,19 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato all'inizio
 - Senza cambi di ambiente, potrebbe risultare noioso
 
-## Tools Must-Have
+## Tools _Must-Have_
 
+- Terminale (con shell Bash, Zsh, ecc.)
 - Git
-- Kanban Boards
-- Text Editors o IDE
-- Bash
+- Editors o IDEs
+
+## Tools aggiuntivi consigliati
+
+- Strumenti di gestione dei progetti e del flusso di sviluppo (Kanban boards, ecc.)
+- Web Browsers
+- Tools per il design e/o la prototipazione
+- Tools per lo sviluppo di API
+- Tools di consultazione della documentazione (man, DevDocs, Zeal)
 
 # Skills
 
