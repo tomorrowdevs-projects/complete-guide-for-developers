@@ -1,9 +1,10 @@
 # Guida Galattica per futuri Sviluppatori.
+
 ## Pro / Contro, Skills necessarie e Mindset.
+
 Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mondo dello sviluppo Software e capire se è fatta per te.
 
-[Skills](#skills-1)
------------------
+## [Skills](#skills-1)
 
 - [Pensiero Logico](#pensiero-logico)
 - [Capacità di lavorare in autonomia](#capacità-di-lavorare-in-autonomia)
@@ -11,8 +12,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - [Capacità relazionali](#capacità-relazionali)
 - [Capacità di ricerca delle soluzioni](#capacità-di-ricerca-delle-soluzioni)
 
-[Mindset](#mindset-1)
------------------
+## [Mindset](#mindset-1)
 
 - [Spirito di adattamento](#spirito-di-adattamento)
 - [Abitudine a "navigare a vista"](#abitudine-a-navigare-a-vista)
@@ -20,8 +20,7 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - [Non sentirsi mai "arrivati"](#curiosità-e-fame-di-apprendimento)
 - [Apertura Mentale](#apertura-mentale)
 
-[Pro](#pro-1)
------------------
+## [Pro](#pro-1)
 
 - [Estremamente creativo](#estremamente-creativo)
 - [Impari ogni giorno](#impari-ogni-giorno)
@@ -49,22 +48,29 @@ Ovvero: tutto quello che vorresti sapere PRIMA di iniziare una carriera nel mond
 - Al giorno 0 non si ha chiaro di quanto sia vasto questo mondo
 - Manca il tempo di imparare in modo approfondito
 - Ci si rende conto tardi che ci sono tante cose da imparare
-- Non si fa mai una sola cosa 
+- Non si fa mai una sola cosa
 - Non si lavora tendenzialmente mai sulle cose per cui abbiamo studiato all'inizio
 - Senza cambi di ambiente, potrebbe risultare noioso
 
-## Tools Must-Have
+## Tools _Must-Have_
 
+- Terminale (con shell Bash, Zsh, ecc.)
 - Git
-- Kanban Boards
-- Text Editors o IDE
-- Bash
+- Editors o IDEs
+
+## Tools aggiuntivi consigliati
+
+- Strumenti di gestione dei progetti e del flusso di sviluppo (Kanban boards, ecc.)
+- Web Browsers
+- Tools per il design e/o la prototipazione
+- Tools per lo sviluppo di API
+- Tools di consultazione della documentazione (man, DevDocs, Zeal)
 
 # Skills
 
 ### Pensiero Logico
 
-Indubbiamente la caratteristica regina. 
+Indubbiamente la caratteristica regina.
 Attraverso il pensiero logico lo sviluppatore risolve tutti i problemi che gli si pongono davanti.
 Approcciarsi ad un problema applicando una logica, risolvendolo prima attraverso un ragionamento, aiutandosi con diagrammi o pseudo-codice, senza nemmeno scrivere una riga di codice, è la caratteristica che permette agli sviluppatori di riuscire a risolvere situazioni molto complesse, ed avere chiaro come partire da un punto A e raggiungere un punto B.
 
@@ -83,7 +89,7 @@ Persone che devono essere seguite, che hanno bisogno di costante supporto e sost
 
 Uno dei luoghi comuni riguardo i developer è che siano persone solitarie e chiuse.
 Al di là degli aspetti caratteriali, è necessario che qualunque developer sia in grado di comunicare nel miglior modo possibile per poter rendere il proprio lavoro, e quello degli altri, più fluido.
-Uno sviluppatore che non è in grado di spiegare una soluzione ad un problema, o come il proprio codice funziona, o che, peggio ancora, non si rende disponibile ad altri membri del team, diventa un elemento critico che rischia di minare la buona riuscita dei progetti. 
+Uno sviluppatore che non è in grado di spiegare una soluzione ad un problema, o come il proprio codice funziona, o che, peggio ancora, non si rende disponibile ad altri membri del team, diventa un elemento critico che rischia di minare la buona riuscita dei progetti.
 
 ### Capacità di ricerca delle soluzioni
 
@@ -91,14 +97,13 @@ Non è richiesto che uno sviluppatore conosca tutto a memoria: Google, Github e 
 Ma attenzione, è molto facile cadere nel tranello di applicare soluzioni sbagliate, o peggio ancora a caso senza capirne bene il funzionamento.
 Questo vuol dire sapere padroneggiare il nostro lavoro, sapere esattamente di cosa abbiamo bisogno, e di conseguenza fare le ricerche giuste.
 
-
 # Mindset
 
 ### Spirito di adattamento
 
 Questo è un punto ricorrente sotto varie forme.
-Adattarsi a situazioni diverse è sicuramente una caratteristica chiave per diventare buoni sviluppatori. 
-Le sfide ed i contesti sono sempre diversi, sapersi adattare velocemente a realtà e situazioni nuove permette di rimanere sempre produttivi. 
+Adattarsi a situazioni diverse è sicuramente una caratteristica chiave per diventare buoni sviluppatori.
+Le sfide ed i contesti sono sempre diversi, sapersi adattare velocemente a realtà e situazioni nuove permette di rimanere sempre produttivi.
 
 ### Abitudine a "navigare a vista"
 
@@ -123,7 +128,6 @@ Smettere di imparare è il miglior modo per rimanere lontani dal presente.
 La tecnologia avanza ad una velocità tale per cui ogni giorno esistono soluzioni nuove ad un problema che avevamo in precedenza.
 Evitare di provare qualcosa solo per la paura dell'ignoto equivale a non voler migliorare se stessi.
 Questo non vuol dire correre dietro a qualsiasi novità o moda, ma vuol dire agire consapevolmente nell'ottica di un miglioramento continuo.
-
 
 # Pro
 
@@ -154,6 +158,7 @@ In alcuni ambiti ben precisi, la laurea permette di ottenere conoscenze accessor
 Ciò che più conta è la capacità di approcciarsi ai problemi, risolverli in modo logico e di conseguenza attraverso la programmazione.
 
 Gli ambiti in cui è sicuramente utile (ma non necessaria) avere una Laurea sono:
+
 - Data Science
 - Computer Vision
 - Machine Learning / Intelligenza Artificiale
@@ -165,6 +170,7 @@ Gli ambiti in cui è sicuramente utile (ma non necessaria) avere una Laurea sono
 Un altro enorme luogo comune.
 La Matematica non è (quasi) mai necessaria.
 Possiamo identificare gli ambiti in cui la Matematica è necessaria in questo elenco:
+
 - Data Science (Algebra Lineare, Probabilità e Statistica)
 - Machine Learning
 - Intelligenza Artificiale
